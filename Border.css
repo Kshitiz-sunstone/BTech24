@@ -1,0 +1,13 @@
+p{
+    border-style: ridge solid double dashed;
+    border-width:50px 10px 15px 20px;
+    border-color: red green blue yellow;
+    /* background-color: green; */
+}
+span{
+    padding: 10px;
+    border: 2px solid;
+    background-color: greenyellow;
+    color: red;
+    border-radius: 15px;
+}

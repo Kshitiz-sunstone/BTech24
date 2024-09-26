@@ -1,0 +1,22 @@
+
+body{
+    /* background-image: url('./Sunstone.jpeg');
+    background-repeat:repeat-y;
+    background-attachment: fixed; */
+    background: red url('./Sunstone.jpeg') repeat-y fixed;
+}
+/* p{
+    background-color:#1e305b;
+    /* opacity: 0.3; */
+    color: white;
+    width: 49%;
+    float: left;
+}
+.even{
+    background-color: grey;
+    color: white;
+}
+#tdata{
+    background-color: black;
+    color: white;
+} */
