@@ -1,0 +1,14 @@
+li{
+    display: inline;
+}
+a{
+    text-decoration: none;
+    background-color: greenyellow;
+    padding: 10px;
+    color: black;
+    border-right: 2px solid black;
+}
+a:hover{
+    background-color: red;
+    color: white;
+}
